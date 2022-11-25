@@ -1,5 +1,5 @@
 # tembak-axis
-Tembak Kouta Axis rp0
+Tembak `Kouta Axis` rp0
 
 # [List Tembak Axis]
 
