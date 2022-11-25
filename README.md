@@ -1,7 +1,7 @@
 # tembak-axis
 Tembak `Kouta Axis` rp0
 
-# [List Tembak Axis]
+# List Tembak Axis
 
 - [x] `free`
 ```
